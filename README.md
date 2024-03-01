@@ -2,4 +2,4 @@
 
 ## This repository includes assignments for the DevOps Subject @ FCSE.
 
-### Author: Antonio Stefanovski (211137);
+### Author: Antonio Stefanovski (211137) - 2023/24
